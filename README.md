@@ -1,7 +1,5 @@
 # Presentación
 
-El siguiente proyecto es un repositorio integral de **diseño y desarrollo de una base de datos diseñada para satisfacer las necesidades específicas de 'Tintorería Aries'**. Este proyecto incluye elementos clave, desde la **estructura de la base de datos** hasta dos **métodos de conexión y un sistema de bitácora.** Cada aspecto ha sido diseñado meticulosamente para garantizar una solución efectiva y eficiente que contribuye al éxito de 'Tintorería Aries'.
-
 <h1 align="center"> Página web de nuestros amigos felinos </h1>
 <p align="center"> Pantalla principal de la página web </p>
 <p align="center"><img src="README/1_Interfaz_Usuario.png"/></p>
@@ -34,54 +32,23 @@ El siguiente proyecto es un repositorio integral de **diseño y desarrollo de un
 
 Las capturas de pantalla a continuación destacan puntos clave en el proceso de diseño y desarrollo del proyecto de la base de datos para "Tintorería Aries".
 
-## Capturas de pantalla diagrama de relación
+## Capturas de pantalla de pantalla principal
 
-![Diagrama de clases](README/2_Diagrama_Clases.jpg)
-
-## Capturas de pantalla de creación y carga de datos
-
-![Creación estructural](README/3_Creacion_BD.jpg)
-![Carga de datos](README/4_Carga_Datos.jpg)
-
-## Capturas de pantalla de consultas
-
-![Consultas multitabla](README/5_Consultas_BD.jpg)
-![Diagrama entidad relacion](README/6_Diagrama_ER.jpg)
-
-## Capturas de pantalla de interfaz de usuario
-
-![Creación de interfaz](README/7_Interfaz_Java.jpg)
-![Módelo de interfaz](README/8_Modelo_Interfaz.jpg)
+![Pantalla principal](README)
 
 # Descripción del proyecto
 
 ---
 
-El presente repositorio representa un proyecto integral de diseño y desarrollo de una base de datos dirigido a satisfacer las necesidades específicas de 'Tintorería Aries'. Este proyecto incluye una serie de componentes clave que se han diseñado y construido meticulosamente:
-
-1. **Diseño Estructural de la Base de Datos:** He creado una estructura sólida que garantiza la eficiente organización y almacenamiento de datos críticos para la operación de la tintorería.
-2. **Carga de Datos:** Implemente un proceso de carga de datos cuidadosamente planificado para mantener la información actualizada y siempre disponible.
-3. **Consultas Multitabla:** Desarrolle consultas avanzadas que involucran múltiples tablas, lo que permite un acceso rápido y efectivo a la información, facilitando la toma de decisiones.
-4. **Constraints:** Establecí reglas y restricciones para asegurar la coherencia y confiabilidad de los datos almacenados.
-5. **Bitácora:** Implemente una bitácora de actividades que registra en detalle cada operación realizada en la base de datos, proporcionando un historial completo de eventos.
-6. **Función de Carga de Datos Brutos:** Se creó una función especializada para cargar datos en su forma original, antes de cualquier procesamiento, asegurando la integridad de la información.
-7. **Dos Métodos de Conexión a la Base de Datos:** Diseñe dos métodos distintos para acceder a la base de datos:
-   - La primera conexión se realiza a través de una interfaz de usuario desarrollada en JAVA, lo que brinda una experiencia amigable y eficiente para los usuarios.
-   - La segunda conexión se establece a través de una red, permitiendo el acceso desde dispositivos móviles. Además, implemente un sistema de monitoreo en tiempo real para supervisar y garantizar un óptimo rendimiento de la base de datos.
-     Este proyecto integral representa un paso significativo hacia la eficiencia y la gestión efectiva de datos para 'Tintorería Aries'. Las características implementadas aseguran que la tintorería cuente con una base de datos sólida y versátil que facilita la toma de decisiones y garantiza la satisfacción del cliente.
-
 # Herramientas utilizadas
 
 ---
 
-- [Microsoft Excel](https://www.microsoft.com/es-mx/microsoft-365/excel)
-- [Dia Diagram Editor](http://dia-installer.de/download/index.html.en)
-- [MySQL Workbench 8.0.34](https://dev.mysql.com/downloads/workbench/)
-- [Java 8](https://www.java.com/es/download/ie_manual.jsp)
-- [Apache NeatBeans 17](https://netbeans.apache.org/download/nb17/)
-- [MySQL Connector 8.0.28](https://dev.mysql.com/doc/relnotes/connector-j/8.0/en/news-8-0-28.html)
-- [RemoDB SQL Client MySQL, MsSQL](https://play.google.com/store/apps/details?id=com.kriskast.remotedb&hl=es_MX&gl=US)
-- [ManageEngine Applications Manager](https://www.manageengine.com/latam/applications_manager/monitoreo-de-base-de-datos.html)
+- [Git](https://git-scm.com/)
+- [GitHub](https://github.com/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [HTML](https://developer.mozilla.org/es/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/es/docs/Web/CSS)
 - [ColorCode](https://htmlcolorcodes.com/es/)
 - [Shields.io](https://shields.io/badges/static-badge)
 
