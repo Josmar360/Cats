@@ -26,7 +26,7 @@ El propósito de este repositorio va más allá de simplemente contener una pág
 - Versión Actual: ![Versión](https://img.shields.io/badge/Versi%C3%B3n-1.12.1-%23AED6F1)
 - Uso de dependencias: ![Dependencias](https://img.shields.io/badge/Depentencias-Ninguna-%23F9853F)
 - Tipo de proyecto: ![Tipo de proyecto](https://img.shields.io/badge/Tipo%20de%20proyecto-Pagina%20web-%23EBDEF0)
-- Categoría del proyecto: ![Categoria del proyecto](https://img.shields.io/badge/Categor%C3%ADa-Pagina%20web%20-%23FAD7A0%20)
+- Categoría del proyecto: ![Categoria del proyecto](https://img.shields.io/badge/Categor%C3%ADa-Mascotas-%23FAD7A0%20)
 
 # Capturas de pantalla
 
@@ -36,7 +36,17 @@ Las capturas de pantalla a continuación ofrecen una visión detallada del proce
 
 ## Capturas de pantalla de pantalla principal
 
-![Pantalla principal](README)
+![Pantalla principal](README/1_Interfaz_Usuario.png)
+
+## Capturas de pantalla sobre las ramas del repositorio
+
+![Lista de ramas](README/2_Lista_ramas.png)
+![Crear un pull](README/3_Crear_pull.png)
+![Verificar un pull](README/4_Verificar_pull.png)
+
+## Captura de pantalla para confirmar un pull request
+
+![Confirmar pull](README/5_Confirmar_pull.png)
 
 # Descripción del proyecto
 
@@ -65,6 +75,10 @@ Las capturas de pantalla a continuación ofrecen una visión detallada del proce
    - Ve al repositorio en GitHub: https://github.com/Josmar360/Tintoreria_Aries_BD
    - Haz clic en el botón verde "Code" y selecciona "Download ZIP".
    - Descomprime el archivo ZIP en la ubicación de tu elección.
+
+2. **Ejecutar página web**
+   - Abre la carpeta Cats
+   - Da doble click sobre el archivo index
 
 # Autor/es
 
