@@ -52,9 +52,7 @@ Las capturas de pantalla a continuación ofrecen una visión detallada del proce
 
 ---
 
-Este repositorio representa mi esfuerzo por obtener la certificación de Git y GitHub de Microsoft, lo cual implicó adquirir habilidades avanzadas en el trabajo con distintas ramas dentro de este sistema de control de versiones.
-
-- **Los elementos fundamentales que abarca este proyecto son:**
+Este repositorio representa mi esfuerzo por obtener la certificación de Git y GitHub de Microsoft, lo cual implicó adquirir habilidades avanzadas en el trabajo con distintas ramas dentro de este sistema de control de versiones. Los elementos fundamentales que abarca este proyecto son:
   1.  **Creación del Primer Repositorio:** Se detalla el proceso de creación y configuración de mi primer repositorio.
   2.  **Subida Remota del Repositorio:** Se explica el procedimiento para cargar mi repositorio de manera remota, asegurando una gestión efectiva de los archivos.
   3.  **Creación de Ramas:** Se profundiza en el concepto y uso de las ramas, destacando su importancia en el desarrollo colaborativo.
