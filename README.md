@@ -23,7 +23,7 @@ El propósito de este repositorio va más allá de simplemente contener una pág
 ---
 
 - Estado del Proyecto: ![Porcentaje](https://img.shields.io/badge/Porcentaje-100%25-green)
-- Versión Actual: ![Versión](https://img.shields.io/badge/Versi%C3%B3n-1.12.1-%23AED6F1)
+- Versión Actual: ![Versión](https://img.shields.io/badge/Versi%C3%B3n-1.25.1-%23AED6F1)
 - Uso de dependencias: ![Dependencias](https://img.shields.io/badge/Depentencias-Ninguna-%23F9853F)
 - Tipo de proyecto: ![Tipo de proyecto](https://img.shields.io/badge/Tipo%20de%20proyecto-Pagina%20web-%23EBDEF0)
 - Categoría del proyecto: ![Categoria del proyecto](https://img.shields.io/badge/Categor%C3%ADa-Mascotas-%23FAD7A0%20)
