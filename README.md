@@ -23,7 +23,7 @@ El propósito de este repositorio va más allá de simplemente contener una pág
 ---
 
 - Estado del Proyecto: ![Porcentaje](https://img.shields.io/badge/Porcentaje-100%25-green)
-- Versión Actual: ![Versión](https://img.shields.io/badge/Versi%C3%B3n-1.12.1-%23AED6F1)
+- Versión Actual: ![Versión](https://img.shields.io/badge/Versi%C3%B3n-1.25.1-%23AED6F1)
 - Uso de dependencias: ![Dependencias](https://img.shields.io/badge/Depentencias-Ninguna-%23F9853F)
 - Tipo de proyecto: ![Tipo de proyecto](https://img.shields.io/badge/Tipo%20de%20proyecto-Pagina%20web-%23EBDEF0)
 - Categoría del proyecto: ![Categoria del proyecto](https://img.shields.io/badge/Categor%C3%ADa-Mascotas-%23FAD7A0%20)
@@ -51,6 +51,15 @@ Las capturas de pantalla a continuación ofrecen una visión detallada del proce
 # Descripción del proyecto
 
 ---
+
+Este repositorio representa mi esfuerzo por obtener la certificación de Git y GitHub de Microsoft, lo cual implicó adquirir habilidades avanzadas en el trabajo con distintas ramas dentro de este sistema de control de versiones. Los elementos fundamentales que abarca este proyecto son:
+  1.  **Creación del Primer Repositorio:** Se detalla el proceso de creación y configuración de mi primer repositorio.
+  2.  **Subida Remota del Repositorio:** Se explica el procedimiento para cargar mi repositorio de manera remota, asegurando una gestión efectiva de los archivos.
+  3.  **Creación de Ramas:** Se profundiza en el concepto y uso de las ramas, destacando su importancia en el desarrollo colaborativo.
+  4.  **Uso Práctico de Cada Rama:** Cada rama creada se explora de manera práctica, describiendo su función específica y cómo contribuye al desarrollo del proyecto.
+  5.  **Realización de Pull Request a la Rama Principal:** Se guía a través del proceso de realizar un pull request a la rama principal, proporcionando una visión detallada de cada paso y su relevancia en el flujo de trabajo colaborativo.
+
+Este repositorio se presenta como una guía integral que documenta mi proceso de aprendizaje y aplicación de los conceptos esenciales de Git y GitHub.
 
 # Herramientas utilizadas
 
